@@ -19,7 +19,7 @@ body {
     top: 0px;
     left: 0px;
     transform: translate(50px, 50px);
-    transition: transform 0.5s ease;
+    transition: transform 0.25s ease;
     position: absolute;
 }
 
